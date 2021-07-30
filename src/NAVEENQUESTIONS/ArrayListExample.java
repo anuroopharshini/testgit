@@ -18,8 +18,8 @@ public class ArrayListExample {
 		Float f=new Float("10");
 		//Double d=new Double(f);
 	float fl=100.0f;
-	Double d=new Double(f1);
-		System.out.println(d);
+	//Double d=new Double(f1);
+		//System.out.println(d);
 		
 	}
 
