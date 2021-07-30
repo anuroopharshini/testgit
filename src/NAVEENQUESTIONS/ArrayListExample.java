@@ -19,7 +19,9 @@ public class ArrayListExample {
 		//Double d=new Double(f);
 	float fl=100.0f;
 	//Double d=new Double(f1);
-		//System.out.println(d);
+	System.out.println(a);
+		
+	
 		
 	}
 
